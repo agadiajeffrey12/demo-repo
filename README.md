@@ -1,3 +1,3 @@
 # demo
 
-new project.
+new project!
